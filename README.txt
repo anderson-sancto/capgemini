@@ -13,5 +13,5 @@ Python 3.8.6
 
 Instrução:
 
-Inserçõ de dados conforme solicitação e atenção ao formato da data, a mesma deve ser inserida observando o seguinte modelo ex: 12/01/2021
+Inserção de dados conforme solicitação e atenção ao formato da data, a mesma deve ser inserida observando o seguinte modelo ex: 12/01/2021
 
